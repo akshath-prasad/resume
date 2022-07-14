@@ -1,0 +1,99 @@
+{
+    "basics": {
+        "name": "Akshath Prasad",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1117@iiitkota.ac.in",
+        "phone": "+919555477655",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "House No. B.38/47-9, Plot No. 9, Gokulnagar Colony, Mahmoorganj",
+            "postalCode": "221010",
+            "city": "Varanasi",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "akshath_prasad",
+                "url": "https://www.twitter.com/akshath_prasad"
+            },
+            {
+                "network": "Github",
+                "username": "thegauravparmar",
+                "url": "https://www.github.com/thegauravparmar"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "akshath_prasad",
+                "url": "https://instagram.com/akshath_prasad"
+            }
+        ]
+    },
+    
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "MySQL",
+                "C/C++",
+                "Python",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Reading",
+            "keywords": [
+                "Non-Fiction"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Table Tennis"
+            ]
+        }
+    ]
+}
